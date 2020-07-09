@@ -1,3 +1,5 @@
+**A tartalom új helye: <https://github.com/bmeviauac01/adatvezerelt>**
+
 # BMEVIAUAC01 Adatvezérelt rendszerek - gyakorlatok
 
 ## Gyakorlatok feladatai
